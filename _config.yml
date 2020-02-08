@@ -1,4 +1,4 @@
-# Hexo Configuration
+﻿# Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
@@ -231,6 +231,6 @@ sitemap:
 # branch: master
 deploy:
   type: git
-  repository: https://github.com/huweihuang/hexo-theme-huweihuang
-  branch: gh-pages
-  message: Update CNAME
+  repository: https://github.com/chfcat/chfcat.github.io.git
+  branch: master
+  message: 
